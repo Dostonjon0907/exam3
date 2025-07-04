@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+header{
+    background-color: #272C3D;
+
+}
+.header-wrapper{
+    width: 1273px;
+    margin: 0 auto;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+
+.parent{
+    color: white;
+    display:flex;
+    gap:25px;
+}
+
+.husband{
+    display: flex;
+    gap: 25px;
+}
+
+
+.son{
+    color: green;
+}
+
+.son:hover{
+    color:white;
+}
+.bob{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+
+.tor{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+
+.gus{
+    width: 100%;
+    height: 100%;
+
+    
+}
+
+
+h2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.box{
+    background-color: black;
+}
+
+.box2{
+  display: flex;
+  justify-content: center;
+  align-items: center;  
+}
+
+
+
+section{
+    background-color: #1B1E27;
+    margin: 0 50px;
+    padding: 50px 50px;
+
+}
+
+.box1{
+    
+    width: 1189px;
+    height: 928px;
+ 
+    margin: 0 auto;
+
+}
+
+
+.ter{
+    background-color: #1B1E27;
+}
+
+
+.yes{
+    color: white;
+    margin: 50px 0;
+}
+h4{
+    margin-bottom: 30px;
+}
+
+
+
+
+
+.bob{
+    display: flex;
+}
+
+
+.footer-wrapper{
+    width: 1273px;
+    margin: 0 auto;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    
+}
+
+
+footer{
+    background-color: #272C3D;
+
+}
+
+
+
+.don{
+    display: flex;
+    gap: 25px;
+}
+
+
+.yulduz{
+    color: white;
+    display:flex;
+    gap:25px;
+}
+
+
+.oy{
+    color: green;
+}
+
+.oy:hover{
+    color:white;
+}
+
+
+.kok{
+
+}
